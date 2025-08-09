@@ -1,0 +1,12 @@
+gTTS
+boto3
+azure-cognitiveservices-speech
+coqui-tts
+requests
+pydub
+librosa
+matplotlib
+plotly
+pandas
+numpy
+scikit-learn
